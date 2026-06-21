@@ -1,0 +1,10 @@
+services:
+  entorno_curso:
+    image: python:3.14-rc-slim
+    container_name: python_notes_314
+    volumes:
+      - .:/app
+    working_dir: /app
+    tty: true
+    stdin_open: true
+    command: bash
