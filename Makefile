@@ -9,6 +9,7 @@ down:
 	docker compose down
 
 # Te mete directo a la terminal de Python 3.14 sin vueltas
+# alternativa a usar >< en visual studio code por consola (Bash)
 entrar:
 	docker compose exec entorno_curso bash
 
