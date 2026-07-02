@@ -28,5 +28,8 @@
 - 18: ejemplos varios de contenacion - ej con F-String
 - 19: len - longitud de cadenas
 - 20: ejemplo de longitud en cadenas
-
+- 21: conversion de una cadena a minuscula(lower) o mayuscula(upper)
+- 22: inmutabilidad de cadenas - creacion de una cadena nueva en base una cadena inmutable
+- 23: slicing o manejo de subcadenas
+- 24: ejemplos de slicing - invertir cadena con slicing
 ## PARTE 4 - ENTRADA DE DATOS  
