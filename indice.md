@@ -30,6 +30,12 @@
 - 20: ejemplo de longitud en cadenas
 - 21: conversion de una cadena a minuscula(lower) o mayuscula(upper)
 - 22: inmutabilidad de cadenas - creacion de una cadena nueva en base una cadena inmutable
-- 23: slicing o manejo de subcadenas
+- 23: slicing o manejo de subcadenas - extraccion de una porcion de subcadena
 - 24: ejemplos de slicing - invertir cadena con slicing
+- 25: remplazo en cadenas - replace() - ejemplos
+- 26: multiplicacion de cadenas
+- 27: buscar subcadena - find() - ejemplos
+- 28: strip() - eliminacion de espacios al inicio y final en cadenas
+- 29: ejercicio generador de email
+
 ## PARTE 4 - ENTRADA DE DATOS  
