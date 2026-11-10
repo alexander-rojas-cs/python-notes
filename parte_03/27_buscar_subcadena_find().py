@@ -1,5 +1,5 @@
-# Buscar subcadena dentro de una cadena - find 
-# con el metodo de find(), devuelbe el indice de la primera aparicion 
+# Buscar subcadena dentro de una cadena - con find 
+# con el metodo de find(), devuelve el indice de la primera aparicion 
 # de la subcadena, si no encuentra la subcadena devuelve -1
 
 

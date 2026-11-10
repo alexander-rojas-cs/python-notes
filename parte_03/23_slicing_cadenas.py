@@ -4,9 +4,9 @@
 
 # formula texto[inicio : fin : paso]
 # Donde :
-# inicio -> indice donde idnica el corte de la cadena (lo incluye)
-# fin -> indice donde terina el corte de la cadena (no lo incluye)
-# paso -> salto o como avanzar, por defecto es de 1
+# inicio -> indice donde inicia el corte de la cadena (lo incluye)
+# fin -> indice donde termina el corte de la cadena (no lo incluye)
+# paso -> salto o como avanzar, por defecto es de a 1
 
 # Ejemplo 1 : Basico
 texto = "Python"

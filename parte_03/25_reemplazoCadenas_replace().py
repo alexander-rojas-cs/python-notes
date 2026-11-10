@@ -5,16 +5,16 @@
 # ... no reemplaza sino que crea una nueva cadena con el cambio
 
 # Uso de replace():
-# A) limpieza :  de espacios extras, simbolos raroso errores
-# B) plantilla : se puede buscar dentro de una strtura y 
+# A) limpieza :  de espacios extras, simbolos raros o errores
+# B) plantilla : se puede buscar dentro de una estructura y 
 # cambiar un campo especifico
 
 # SINTAXIS   ->  texto.replace("viejo", "nuevo")
 # SINTAXIS 2 ->  texto.replace("viejo", "nuevo", 2)
 
 # el 3er parametros es opcional para indicar cuentas veces 
-# hacer el reemplzazo cada vez que ebcutre coincidencia 
-# ej si encutra coincidencia 5 txt viejos y se poner de 3er 
+# hacer el reemplazo cada vez que encuentre coincidencia 
+# ej si encuentra coincidencia 5 txt viejos y se poner de 3er 
 # parametro 2, solo se reemplzan las 2 primeras coincidencias 
 
 

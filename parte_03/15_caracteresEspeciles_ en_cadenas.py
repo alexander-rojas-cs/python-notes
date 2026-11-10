@@ -5,7 +5,7 @@ Donde se va usar para :
 - Tabulaciones 
  """
 
-print("Ejemplo 1 : Imprimir doble comillas")
+print("Ejemplo 1 : Imprimir doble comillas dentro de otra comilla doble")
 mensaje = "Ella dijo \"hola\" al entrar"
 print(mensaje)
 
@@ -23,14 +23,14 @@ print("Ejemplo 5 : Comillas simples")
 print('Jose O\'Gorman')
 
 """ Respuesta : 
-Ejemplo 1 : Imprimir doble comillas
+Ejemplo 1 : Imprimir doble comillas dentro de otra comilla doble
 Ella dijo "hola" al entrar
 Ejemplo 2 : Salto de linea
 hola 
 mundo
 Ejemplo 3 : Tabulacion
-Nombre: Juan
-Apellido:       Perez
+Nombre:	Juan
+Apellido:	Perez
 Ejemplo 4 : Imprimir doble comillas
 El libro se llama "1984"
 Ejemplo 5 : Comillas simples

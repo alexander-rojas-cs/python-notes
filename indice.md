@@ -19,7 +19,7 @@
 - 12: constante por convencion en python
 - 12_01: constante def en librerias
 
-## PARTE 3 - MANEJO DE CADENAS 
+## PARTE 03 - MANEJO DE CADENAS 
 - 13: explicacion de cadenas, con comilla simples y dobles
 - 14: cadenas multilineas con comillas simples y dobles
 - 15: caracteres especiales " \ " en cadenas para, imprimir comillas simples y dobles, salto de lines y tabulacion
@@ -38,4 +38,10 @@
 - 28: strip() - eliminacion de espacios al inicio y final en cadenas
 - 29: ejercicio generador de email
 
-## PARTE 4 - ENTRADA DE DATOS  
+## PARTE 04 - ENTRADA DE DATOS  
+
+## PARTE 05 - OPERADORES
+
+## PARTE 06 - SENTECIAS DE CONTROL
+
+## PARTE 07 - CICLOS

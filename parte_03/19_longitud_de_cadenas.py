@@ -5,6 +5,9 @@
 ## Ejemplo 1: simple
 cadena = "A B !"
 cantidad = len(cadena)
-texto = f"Cantidad de elementos en la cadena {cantidad}"
+texto = f"Cantidad de elementos en la cadena: {cantidad}"
 print(texto)
 
+""" Respuesta:
+Cantidad de elementos en la cadena: 5
+"""

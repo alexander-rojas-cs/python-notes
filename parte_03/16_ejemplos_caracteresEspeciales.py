@@ -25,7 +25,7 @@ mensaje5 = "C:\\Usuario\\Juan\\Documentos"
 print(mensaje5)
 
 # 5. Cadena cruda(raw string) r"..."
-# Las cadnas crudas toman literalmente lo que escbriste 
+# Las cadnas crudas toman literalmente lo que escbiste 
 # ignorando cualquier tipo de caracter especial como 
 # salto de linea \n  o tabulacion \t , entre otros. 
 print("Ej 6 : cadena cruda")

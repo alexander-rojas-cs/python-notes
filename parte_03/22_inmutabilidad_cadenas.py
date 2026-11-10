@@ -1,11 +1,13 @@
 # Inmutabilidad de cadenas:
 # si se crea una cadena y se trata de modifcar no se puede
 
-# Ejemplo 0 :  fallido fa un error 
-""" texto = "Gato"
-texto[0] = "P" """
+# Ejemplo 0 :  fallido da un error 
+""" 
+texto = "Gato"
+texto[0] = "P" 
+"""
 
-# Ejemplo 1 : no se puede modificar una caenas pero si contenar 
+# Ejemplo 1 : no se puede modificar una cadenas pero si concatenar 
 # y generar un nueva cadena
 animal = "Gato"
 # concatenacion

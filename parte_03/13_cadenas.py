@@ -15,7 +15,7 @@ color = "Rosa"
 cita = 'El maestro dijo: "Estudien mucho"'
 
 # B. titulo de un libro 
-libro = "En el libto 'El principito' ayer"
+libro = "En el libro 'El principito' ayer"
 
 # 4. imprimir variables 
 print("fruta:",fruta)

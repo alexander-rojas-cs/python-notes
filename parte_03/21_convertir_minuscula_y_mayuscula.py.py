@@ -7,15 +7,16 @@
 
 texto1 = "DaTa"
 txt_minuscula = texto1.lower()
-print(f"en minuscula: {txt_minuscula}")
-## Ejemplp 2 : Mayuscula  
+print(f"{texto1} en minuscula: {txt_minuscula}")
+
+## Ejemplo 2 : Mayuscula  
 
 texto2 = "biTs"
 txt_mayuscula = texto2.upper()
-print(f"en mayuscula: {txt_mayuscula}")
+print(f"{texto2} en mayuscula: {txt_mayuscula}")
 
 """ 
 Respuesta
-en minuscula: data
-en mayuscula: BITS
+DaTa en minuscula: data
+biTs en mayuscula: BITS
 """

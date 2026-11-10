@@ -1,5 +1,5 @@
 # Cadenas multilineas con comillas
-# simples o docles pero tribles ''' o """
+# simples o dobles pero tribles ''' o """
 
 # Ejemplo 1 : menu basico de restaurante
 
@@ -34,7 +34,7 @@ MENU DEL DIA :
 3. Zapallitos rellenos 
 4. Ravioles con osobuco
 
-
+-----
 
 Hola equipo: 
 
