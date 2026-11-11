@@ -1,54 +1,31 @@
 # PYTHON - NOTES
 
-Respositorio de repaso y practicas de python cuenta docker para poder probar a version python 3.14
+Repositorio de repaso y prácticas de Python utilizando un entorno virtual con **Python 3.14**.
 
-## Instalacion y Ejecucion de Docker
+---
 
-### Instalacion 
+## 🚀 Configuración del Entorno Virtual (Primera vez)
 
-Despues de copiar el repositorio localmente
+Si clonas el repositorio en una nueva máquina o vuelves a crear el entorno desde cero, asegúrate de tener instalado Python 3.14 en el sistema y ejecuta:
 
+## 1. Crear el entorno virtual con Python 3.14
 ```bash
-docker compose up -d
-```
-### Ejecucion 
-
-#### Alternativa  1 : con Bash (con Makefile)
-
-Levantamos el entorno 
-
-```bash
-Make up
+python3.14 -m venv venv
 ```
 
-Activamos Bash con la version python 3.14
+## 2. Actualizar pip dentro del entorno (opcional pero recomendado)
 
+###  Activar el entorno virt
 ```bash
-Make entrar
+source venv/bin/activate
 ```
 
-#### Alternativa 2 : Bash + Visual Studio Code
-
-Levantamos el entorno 
-
+###  Actualizar el instalador de paquetes (opcional)
 ```bash
-Make up
+pip install --upgrade pip
 ```
 
-Con visual nos movemos al contendor de docker y usamos version python 3.14, para eso seguir paso 1 y 2 de la imagen.
-
-![image not available](image/alternativa2.png)
-
-## Verificacion : Avtivacion de Docker 
-
-Muestra una lista de comando de docker en ejecuccion
-
+## 3. Desactivar el entorno virt
 ```bash
-docker ps 
-```
-
-O mostrar informacion general y configuracion de docker
-
-```bash
-docker info
+deactivate
 ```
