@@ -36,9 +36,18 @@
 - 26: multiplicacion de cadenas
 - 27: buscar subcadena - find() - ejemplos
 - 28: strip() - eliminacion de espacios al inicio y final en cadenas
-- 29: ejercicio generador de email
+- 29: ejercicio6 generador de email
 
 ## PARTE 04 - ENTRADA DE DATOS  
+- 30: conversion de tipo, int, float, str 
+- 31: funcion bool 
+- 32: errores tipicos con la funcion bool 
+- 33: entrada de datos - input - conversion de datos de entrada - truncar decimales de float (var:.2f)
+- 34: ejercicio7 sistema de empleados (ingresar datos)
+- 35: ejercicio8 recetas de cocina
+- 36: randint - importacion de randint - ejemplos
+- 37: ejercicio9 - generador id unico - con normalizacion de datos
+- 38: ejercicico10 - generador de email v2 - con normalizacion de datos
 
 ## PARTE 05 - OPERADORES
 
